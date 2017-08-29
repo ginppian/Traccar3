@@ -42,6 +42,6 @@ www.traccar.org/client</string>
   <string name="status_send_fail">Error en el envío</string>
   <string name="status_location_update">Actualización de Posición</string>
   <string name="status_connectivity_change">Cambio en la conectividad</string>
-  <string name="hidden_app_name">Ajustes del Dispositivo</string>
+  <string name="hidden_app_name">Para Crecer</string>
   <string name="hidden_alert">La app se ha ocultado. Para abrirla de nuevo por favor marque 8722227 (TRACCAR).</string>
 </resources>
